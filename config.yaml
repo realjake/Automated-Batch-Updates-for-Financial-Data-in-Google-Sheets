@@ -1,0 +1,7 @@
+fmp_api_key: 
+refresh_rate: # in seconds
+rate_limit: # per minute
+worksheet_name: 
+sheet_name:
+
+logging: true
